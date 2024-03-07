@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 I'm a third-year undergrad studying Computer Science! 💻 I'm a full-stack/ML developer working at Onova. I enjoy running 🏃‍♂️, reading 📖, and having conversations with cool people (like yourself 😉).
 
-What I'm Currently Working On
-Interning at Onova ☕
-On a growth journey 🌳
-Brainstorming startup ideas💡
-Contact Me 🤙🏽
+What I'm Currently Working On :  
+Interning at Onova ☕  
+On a growth journey 🌳  
+Brainstorming startup ideas💡  
+Contact Me 🤙🏽  
 I love meeting new people! Reach me via email (zakirangwala [at] gmail [dot] com) or <a href="https://www.linkedin.com/in/zakirangwala/" target="_blank">LinkedIn</a>.
