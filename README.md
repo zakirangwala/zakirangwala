@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a third-year undergrad studying Computer Science! 💻 I'm a full-stack/ML developer working at Onova. I enjoy running 🏃‍♂️, reading 📖, and having conversations with cool people (like yourself 😉).
+I'm a fourth-year undergrad studying Computer Science! 💻 I'm currently building PokerGPT. I enjoy running 🏃‍♂️, reading 📖, and having conversations with cool people (like yourself 😉).
 
 What I'm Currently Working On :  
-Interning at Onova ☕  
+Building PokerGPT ♠️  
 On a growth journey 🌳  
 Brainstorming startup ideas💡  
 Contact Me 🤙🏽  
